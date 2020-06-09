@@ -1,6 +1,5 @@
 # Vocal-Data-Analysis
 Analysing human voice to predict their age, gender and accent
-# Vocal Data Assessment To Envision Distinctive Features Of An Individual
 
 ## Getting Started
 
